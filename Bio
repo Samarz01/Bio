@@ -1,0 +1,23 @@
+
+  
+
+Hi, I'm Rao Samar
+Computer Science graduate from Lahore, Pakistan. I build websites, test games until they behave, and fix whatever breaks. Open to junior roles in web development, QA/testing, technical support and production at software houses and game studios.
+const me = {
+  role: "cs grad",
+  school: "University of Central Punjab",
+  does: ["web development", "it support", "game qa"],
+  learning: ["game dev", "3D modeling", "AR/VR", "UI/UX"],
+  status: "open to work",
+};
+Projects
+Project
+1Now Ops
+What it is
+Fleet support dashboard for car-rental operators: incident tracking, a guided lockout-resolution flow with an SLA timer, fleet and metrics views
+Tech
+HTML5 CSS3 JavaScript C++ WordPress VS Code
+Get in touch
+Portfolio: YOUR-PORTFOLIO-LINK
+LinkedIn: rao-samar
+Email: raosamar97@gmail.com
